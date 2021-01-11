@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201008T080000
+DTEND;TZID=UTC:20201010T170000
+DTSTAMP:20201120T063011
+CREATED:20201008T073556Z
+LAST-MODIFIED:20201009T205310Z
+UID:13352-1602144000-1602349200@defyhatenow.org
+SUMMARY:Media4Peace Workshop
+DESCRIPTION:Capacity Building Through Media4Peace Training and Mentoring Program; Peace Journalism Resources; and Media for Peace Research in Cameroon.
+URL:https://defyhatenow.org/event/media4peace-workshop/
+LOCATION:Talotel\, Bafoussam\, Cameroon
+CATEGORIES:cameroon
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/10/Media-4-Peace-Workshop_rev-1.png
+END:VEVENT
+END:VCALENDAR

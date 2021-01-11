@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200918
+DTEND;VALUE=DATE:20200919
+DTSTAMP:20201120T063046
+CREATED:20200829T064934Z
+LAST-MODIFIED:20201104T094004Z
+UID:12689-1600387200-1600473599@defyhatenow.org
+SUMMARY:#AFFCameroon Cohort 1B Workshop & Monitoring
+DESCRIPTION:#AfricaFactcheckingFellowship – #AFFCameroon was designed to follow up & to succeed our #FactsMatter237 Fellowship of January 2020 aimed at monitoring & mapping viral trends on social media related to the key thematic issues in #Cameroon. Fact-checking of online information & public claims has been growing over the past few years; motivated by the need to mitigate the rise in fake news & online mis + disinformation. \n\nIt is in this light that #defyhatenow launched #AFFCameroon in partnership with @Adisi-Cameroun in July 2020; we received 50+ applications\, from which #ten Fellows were selected for the first cohort to run through July-August-September 2020. #Bonus ALL #seven #FactsMatter237 Fellows are equally participating in #AFFCameroon Fellowship.
+URL:https://defyhatenow.org/event/affcameroon-cohort-1b-workshop-month-1-monitoring/
+LOCATION:Buea\, Cameroon
+CATEGORIES:cameroon,Meetup,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/119591609_146760223769651_7679509233129701724_o.png
+END:VEVENT
+END:VCALENDAR

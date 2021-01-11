@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200827T080000
+DTEND;TZID=UTC:20200829T170000
+DTSTAMP:20201120T063143
+CREATED:20200826T102810Z
+LAST-MODIFIED:20200904T123232Z
+UID:12592-1598515200-1598720400@defyhatenow.org
+SUMMARY:Hate Speech Not My Culture
+DESCRIPTION:Our partner One Peace will be tackling the root causes and effects of #HateSpeech especially among youth during a three-day session in #Buea. About #fifty youth aged between 18 & 35 years selected from different religious backgrounds & who have been affected in one way or another by the increase hate speech related to the Anglophone crisis are attending.\n \n\n\nThey aim to better understand the dangers of hate speech; the tools and techniques needed to counteract hate speech; the present socio-economic and political context of Cameroon in general and the two Anglophone regions in particular. The overall objective is to train participants on peace building mechanisms and its use for personal & community growth.\n 
+URL:https://defyhatenow.org/event/hate-speech-not-my-culture/
+LOCATION:Buea\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/118580613_139491664496507_1214607112136210397_o.png
+END:VEVENT
+END:VCALENDAR

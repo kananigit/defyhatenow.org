@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200902T080000
+DTEND;TZID=UTC:20200905T170000
+DTSTAMP:20201120T063120
+CREATED:20200904T120544Z
+LAST-MODIFIED:20200904T123254Z
+UID:12856-1599033600-1599325200@defyhatenow.org
+SUMMARY:Catalysing Media for Peace and Justice in Cameroon
+DESCRIPTION:Capacity Building Through Media4Peace Training and Mentoring Program; Peace Journalism Resources; and Media for Peace Research. \n25 journalists based in the capital city – Yaounde will discuss & brainstorm on #peacebuilding initiatives in the course of their work\, especially in times of crisis.
+URL:https://defyhatenow.org/event/catalysing-media-for-peace-and-justice-in-cameroon/
+LOCATION:Yaounde\, Yaounde\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/09/Catalysing-Media-for-Peace-Justice-in-Cameroon_.png
+END:VEVENT
+END:VCALENDAR

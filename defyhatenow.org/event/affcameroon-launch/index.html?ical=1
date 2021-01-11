@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200807
+DTEND;VALUE=DATE:20200808
+DTSTAMP:20201120T063249
+CREATED:20200826T151731Z
+LAST-MODIFIED:20200904T123122Z
+UID:12626-1596758400-1596844799@defyhatenow.org
+SUMMARY:AFFCameroon Launch
+DESCRIPTION:Training of bloggers and content creators on Fact Checking\, Information\nVerification and Hate Speech Mitigation.
+URL:https://defyhatenow.org/event/affcameroon-launch/
+LOCATION:Online\, Zoom Meet\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/Ee075WGWsAErDrv.png
+ORGANIZER;CN="Defyhatenow_Cameroon":MAILTO:cameroon@defyhatenow.org
+END:VEVENT
+END:VCALENDAR

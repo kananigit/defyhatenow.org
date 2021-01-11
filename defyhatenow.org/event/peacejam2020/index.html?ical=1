@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200921
+DTEND;VALUE=DATE:20200922
+DTSTAMP:20201120T063024
+CREATED:20200916T140007Z
+LAST-MODIFIED:20201005T124003Z
+UID:13113-1600646400-1600732799@defyhatenow.org
+SUMMARY:PeaceJam2020
+DESCRIPTION:UN Int. Day of Peace #peaceday! We @defyhatenow invite all #activists in #peacebuilding from across the globe to join us for the #socialmedia #peacejam2020 Sept. 21st! A #peacejam can be an online or offline social gathering like dances\, music\, theatre\, sports\, conversation\, or other forms of collaborative action. To “jam” for peace is to improvise peacebuilding\, developing new ideas and ways of acting spontaneously\, with the energy coming from the creative interaction of the participants! #BeTheChange \nKindly follow our #socialmedia platforms @defyhatenow @defyhatenow_WCA and @defyhatenow_EA for the countdown events which are running already!
+URL:https://defyhatenow.org/event/peacejam2020/
+LOCATION:Global
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/09/slider2.png
+END:VEVENT
+END:VCALENDAR

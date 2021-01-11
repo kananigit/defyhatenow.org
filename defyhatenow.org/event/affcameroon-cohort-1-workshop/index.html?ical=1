@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200815T080000
+DTEND;TZID=UTC:20200816T170000
+DTSTAMP:20201120T063216
+CREATED:20200826T144757Z
+LAST-MODIFIED:20200904T123140Z
+UID:12614-1597478400-1597597200@defyhatenow.org
+SUMMARY:#AFFCameroon Cohort 1 Workshop
+DESCRIPTION:Training of bloggers and content creators on Fact Checking\, Information Verification and Hate Speech Mitigation.
+URL:https://defyhatenow.org/event/affcameroon-cohort-1-workshop/
+LOCATION:Douala\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/Creating-A-Hate-Free-Cameroon_120820-02.png
+END:VEVENT
+END:VCALENDAR

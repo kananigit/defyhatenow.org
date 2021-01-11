@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201016
+DTEND;VALUE=DATE:20201017
+DTSTAMP:20201120T062946
+CREATED:20201019T094412Z
+LAST-MODIFIED:20201019T094446Z
+UID:13405-1602806400-1602892799@defyhatenow.org
+SUMMARY:The Role of Youth In Peace Building
+DESCRIPTION:A workshop for some selected youth to discuss their role in peacebuilding processes in #Cameroon.\nTheme : The Role of Youth in Peacebuilding : Engaging Youth Leaders in Peacebuilding advocacy.\nNotre partenaire CHRDA organise ce jour à #Buéa une session de formation avec les jeunes sur leur rôle dans le processus de paix au #Cameroun.\n\n\n#defyhatenow\n#Act4Peace\n#PeaceBuilding\n#HateFreeCameroon\n#UnCamerounSansHaine
+URL:https://defyhatenow.org/event/the-role-of-youth-in-peace-building/
+LOCATION:Centre for Human Rights and Democracy in #Africa\, Buea\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/jpeg:https://defyhatenow.org/wp-content/uploads/2020/10/121606747_158027035976303_3989454900757570909_o.jpg
+ORGANIZER;CN="Defyhatenow_Cameroon":MAILTO:cameroon@defyhatenow.org
+END:VEVENT
+END:VCALENDAR

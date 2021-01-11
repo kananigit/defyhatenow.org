@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200813T080000
+DTEND;TZID=UTC:20200815T170000
+DTSTAMP:20201120T063238
+CREATED:20200826T151329Z
+LAST-MODIFIED:20200904T123109Z
+UID:12611-1597305600-1597510800@defyhatenow.org
+SUMMARY:Catalyzing Media for Peace and Justice in Cameroon
+DESCRIPTION:#defyhatenow through its partner the Africa Knowledge and Policy Centre -AKPC has developed a capacity development project to strengthen the media in #Cameroon to prevent violent conflict and contribute to peace and justice. \n#TwentyFive media professionals selected from radio\, TV\, print & online platforms will converge on Buea from Thursday August 13 to Saturday 15\, for the first of three workshops. The overall objective is to impart journalists with knowledge on peacebuilding journalism; enhance their skills to investigate and get reliable information; Ensure a model of peace journalism that respects the norms\, ethics and deontology related to journalism especially in times of conflict.
+URL:https://defyhatenow.org/event/catalyzing-media-for-peace-and-justice-in-cameroon/
+LOCATION:Buea\, Cameroon
+CATEGORIES:cameroon,Meetup,Workshop
+ATTACH;FMTTYPE=image/jpeg:https://defyhatenow.org/wp-content/uploads/2020/08/EfJnLwMWsAEvudA.jpeg
+END:VEVENT
+END:VCALENDAR

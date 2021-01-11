@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200907T080000
+DTEND;TZID=UTC:20200911T170000
+DTSTAMP:20201120T063108
+CREATED:20200904T122301Z
+LAST-MODIFIED:20200904T123306Z
+UID:12863-1599465600-1599843600@defyhatenow.org
+SUMMARY:Together Against Hatespeech in my Community
+DESCRIPTION:Sensitizing youths/teens in the community to fight against hate speech online/offline
+URL:https://defyhatenow.org/event/together-against-hatespeech-in-my-community/
+LOCATION:Douala\, Douala\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/09/Together-Against-Hatespeech-in-my-community-StopBadMop-1.png
+END:VEVENT
+END:VCALENDAR

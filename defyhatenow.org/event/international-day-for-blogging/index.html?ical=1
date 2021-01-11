@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200831
+DTEND;VALUE=DATE:20200901
+DTSTAMP:20201120T063131
+CREATED:20200829T051917Z
+LAST-MODIFIED:20200904T123246Z
+UID:12657-1598832000-1598918399@defyhatenow.org
+SUMMARY:International Day For Blogging
+DESCRIPTION:The sensitisation of bloggers/social media users to a more useful and efficient/responsible use of the social media for the construction of a sane digital environment with Fake News and Hate speech in Cameroon. \n\n 
+URL:https://defyhatenow.org/event/international-day-for-blogging/
+LOCATION:DSCHANG\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/International-Day-For-Blogging-3-1.png
+ORGANIZER;CN="ASSOCIATION%20DES%20BLOGUEURS%20DU%20CAMEROUN.":MAILTO:abc@blogueurs.cm
+END:VEVENT
+END:VCALENDAR

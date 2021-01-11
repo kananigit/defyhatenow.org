@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20200329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20201025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20201110T160000
+DTEND;TZID=Europe/Paris:20201110T180000
+DTSTAMP:20201120T062903
+CREATED:20201030T235642Z
+LAST-MODIFIED:20201109T112301Z
+UID:13554-1605024000-1605031200@defyhatenow.org
+SUMMARY:Lancement officiel du GUIDE PRATIQUE Cameroun
+DESCRIPTION:Nous\, à #defyhatenow\, sommes fiers d’annoncer la disponibilité de notre édition pilote #FIELDGUIDECameroun. Nous apprécions le soutien et la contribution de tous nos collaborateurs et de tous ceux qui ont rendu cette importante publication possible. Rejoignez-nous le 10 novembre 2020 pour le lancement. \nPour nous rejoindre\, veuillez vous inscrire en tant que participant\, sur ce lien Zoom:\nhttps://us02web.zoom.us/j/87988682209?pwd=dlUzMFhEeDNtR0taeTg5ZVN3ZnRVdz09\nID de la réunion: 879 8868 2209\nMot de passe: 850505\nSi la salle est pleine\, vous pouvez toujours suivre un flux de l’événement sur notre page Facebook ici:\nhttps://www.facebook.com/defyhatenow/
+URL:https://defyhatenow.org/event/lancement-officiel-du-guide-pratique-cameroun/
+LOCATION:Online\, Zoom Meet\, Cameroon
+CATEGORIES:cameroon
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/10/Field-Guide-Launch-2020_fr-e1604103009374.png
+ORGANIZER;CN="Defyhatenow_Cameroon":MAILTO:cameroon@defyhatenow.org
+END:VEVENT
+END:VCALENDAR

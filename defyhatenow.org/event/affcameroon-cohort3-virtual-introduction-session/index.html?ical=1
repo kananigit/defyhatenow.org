@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20200329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20201025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20201118T160000
+DTEND;TZID=Europe/Paris:20201118T180000
+DTSTAMP:20201120T062444
+CREATED:20201118T144647Z
+LAST-MODIFIED:20201118T144748Z
+UID:13684-1605715200-1605722400@defyhatenow.org
+SUMMARY:#AFFCameroon Cohort3 Virtual Introduction Session
+DESCRIPTION:#AFFCameroon Virtual Introduction of Cohort 3 #defyhatenow welcomes Cohort 3 of our Africa Fact-checking Fellowship Fellows. Our objective is to equip 12 new Fellows for 3 months with the skills & tools to meet the current challenges of mis+disinformation.
+URL:https://defyhatenow.org/event/affcameroon-cohort3-virtual-introduction-session/
+LOCATION:Online\, Zoom Meet\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/11/AFF_Cohort-3-e1605710620873.png
+ORGANIZER;CN="Defyhatenow_Cameroon":MAILTO:cameroon@defyhatenow.org
+END:VEVENT
+END:VCALENDAR

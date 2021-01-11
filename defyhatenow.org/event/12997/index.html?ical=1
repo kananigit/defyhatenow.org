@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200910
+DTEND;VALUE=DATE:20200911
+DTSTAMP:20201120T063057
+CREATED:20200911T042252Z
+LAST-MODIFIED:20200911T042350Z
+UID:12997-1599696000-1599782399@defyhatenow.org
+SUMMARY:#AFFCameroon: #SpecialisedMeetup
+DESCRIPTION:We are pleased to announce a meetup organized by one of our fellow Frank William Batchou\, he holds talks with a dozen journalists and bloggers based in Douala as part of his monthly meet-up for our Africa Fact Check Stock Exchange – #AFFCameroon. as part of our Africa Fact Check Scholarship – #AFFCameroon\,\nTheme: #Haineous Speech & Fake-News: What Correlation?\nMeeting scheduled at the headquarters of our partner Adisi-Cameroon in Douala.
+URL:https://defyhatenow.org/event/12997/
+LOCATION:Douala\, Douala\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/09/Bourse-pour-la-Vérification-des-faits-en-Afrique-AFFCameroon_rev.png
+END:VEVENT
+END:VCALENDAR

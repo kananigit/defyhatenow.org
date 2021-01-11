@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200819
+DTEND;VALUE=DATE:20200820
+DTSTAMP:20201120T063205
+CREATED:20200820T104855Z
+LAST-MODIFIED:20200904T123148Z
+UID:10089-1597795200-1597881599@defyhatenow.org
+SUMMARY:Fighting Hate Speech in Fako Division
+DESCRIPTION:Our partner Reach Out will this Wednesday August 19 host a one-day training for CSOs in the fight against #HateSpeech in Fako Division with over #thirty male & female youth leaders in #Buea. Participants will receive skills on how to counteract hate speech; understand the damaging effects of hate speech; act as peace agents in their respective communities\, among other rich topics. \n\n\n\n\n\n\n\n\n 
+URL:https://defyhatenow.org/event/fighting-hate-speech-in-fako-division/
+LOCATION:Buea\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/Creating-A-Hate-Free-Cameroon_120820-03.png
+END:VEVENT
+END:VCALENDAR

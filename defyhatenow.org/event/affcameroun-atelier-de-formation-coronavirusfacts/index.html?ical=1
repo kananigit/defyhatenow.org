@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201023T080000
+DTEND;TZID=UTC:20201024T170000
+DTSTAMP:20201120T062925
+CREATED:20201021T111922Z
+LAST-MODIFIED:20201104T093929Z
+UID:13442-1603440000-1603558800@defyhatenow.org
+SUMMARY:#AFFCameroun Atelier de formation #CoronaVirusFacts
+DESCRIPTION:#defyhatenow forme les Blogueurs sur la creation de contenu & le reportage relatif a la pandemie COVID-19.
+URL:https://defyhatenow.org/event/affcameroun-atelier-de-formation-coronavirusfacts/
+LOCATION:Yaounde\, Yaounde\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/10/AFF-Cohort-1C-workshopCorona-Facts_fr2-e1603278964198.png
+ORGANIZER;CN="Defyhatenow_Cameroon":MAILTO:cameroon@defyhatenow.org
+END:VEVENT
+END:VCALENDAR

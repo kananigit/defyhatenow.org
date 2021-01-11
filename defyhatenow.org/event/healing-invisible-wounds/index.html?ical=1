@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200815T080000
+DTEND;TZID=UTC:20200816T170000
+DTSTAMP:20201120T063227
+CREATED:20200826T103224Z
+LAST-MODIFIED:20200904T123134Z
+UID:12595-1597478400-1597597200@defyhatenow.org
+SUMMARY:Healing Invisible Wounds
+DESCRIPTION:The ongoing crisis in the North West & South West Regions of #Cameroon has caused untold hardship on the local population; with women and girls constituting the vulnerable group and often direct victims. \nWe are proud to partner with Hope Advocates Africa an organization specialized in providing psycho-social support and counselling to survivors of violence\, in organizing a Trauma Healing Program for predominantly women and girls. \nThe session aims at offering participants the opportunity to heal from trauma or haunting experiences by telling their stories. Our #PeaceBuilding effort seeks to mitigate the effects of #hatespeech & #violence OFFLINE while promoting sustainable development through collective participation.
+URL:https://defyhatenow.org/event/healing-invisible-wounds/
+LOCATION:Buea\, Cameroon
+CATEGORIES:cameroon,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/08/Creating-A-Hate-Free-Cameroon_120820-01.png
+END:VEVENT
+END:VCALENDAR

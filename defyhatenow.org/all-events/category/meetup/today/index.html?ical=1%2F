@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201120
+DTEND;VALUE=DATE:20201121
+DTSTAMP:20201120T071834
+CREATED:20201119T212005Z
+LAST-MODIFIED:20201119T212005Z
+UID:13723-1605830400-1605916799@defyhatenow.org
+SUMMARY:#HateFreeAbakwa Launch
+DESCRIPTION:GIDICom will tomorrow launch it’s #HateFreeAbakwa Project\n\n\n#HateFreeAbakwa Project seeks to engage youths\, CSOs\, community leaders\, persons living with disabilities\, journalists and bloggers to counteract #fakenews\, mitigate Hatespeech\, disinformation and misinformation online and offline while ensuring information verification before Sharing.\n\n\nThe project is intended to run for 4months. It is a monthly engagement we all must take to bring about relevant content online and offline. The launch will begin with women living with disabilities on the theme ” Enhancing the capabilities of women living with disabilities on Peace building”.
+URL:https://defyhatenow.org/event/hatefreeabakwa-launch/
+LOCATION:Bamenda\, Bamenda\, Northwest Region\, P.0 Box 4057\, Cameroon
+CATEGORIES:cameroon,Meetup
+ATTACH;FMTTYPE=image/jpeg:https://defyhatenow.org/wp-content/uploads/2020/11/EnNw3eJXUAQ0uy7.jpeg
+END:VEVENT
+END:VCALENDAR

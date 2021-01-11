@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//#defyhatenow - ECPv5.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:#defyhatenow
+X-ORIGINAL-URL:https://defyhatenow.org
+X-WR-CALDESC:Events for #defyhatenow
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Moscow:20201119T100000
+DTEND;TZID=Europe/Moscow:20201120T140000
+DTSTAMP:20201120T063259
+CREATED:20201119T080535Z
+LAST-MODIFIED:20201119T081205Z
+UID:13708-1605780000-1605880800@defyhatenow.org
+SUMMARY:Africa Check: South Sudan Online fact-checking training.
+DESCRIPTION:Our @211check team is inviting people who identify as a blogger\, influencer\, or a content creator for a two days training on fact-checking and information verification.\nThursday & Friday (19th -20th) at our Juba office 10 AM to 2PM.\n\nRegister Here
+URL:https://defyhatenow.org/event/africa-check-south-sudan-online-fact-checking-training/
+LOCATION:defyhatenow EA Office\, South Sudan\, Juba\, Sudan
+CATEGORIES:South Sudan,Workshop
+ATTACH;FMTTYPE=image/png:https://defyhatenow.org/wp-content/uploads/2020/11/Fact-Checking.png
+END:VEVENT
+END:VCALENDAR
